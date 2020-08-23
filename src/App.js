@@ -36,7 +36,7 @@ export default class App extends Component {
 
     return (
       <div className="container">
-        <h1>React Salary</h1>
+        <h1>Salary Calculator</h1>
 
         <div className="row">
           <InputFullSalary
